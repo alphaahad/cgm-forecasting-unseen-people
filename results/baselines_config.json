@@ -1,0 +1,24 @@
+{
+  "seed": 20261117,
+  "horizons": [
+    30,
+    60,
+    120
+  ],
+  "n_lags": 8,
+  "grid_minutes": 15,
+  "n_folds": 5,
+  "n_repeats": 3,
+  "meta": {
+    "libre": {
+      "samples": 45204,
+      "participants": 45
+    },
+    "dexcom": {
+      "samples": 41202,
+      "participants": 45
+    }
+  },
+  "runtime_sec": 50.0,
+  "note": "rung 1: glucose history only; grouped CV by participant; participant = unit for CIs"
+}

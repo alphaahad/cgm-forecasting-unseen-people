@@ -1,0 +1,19 @@
+{
+  "participants": 45,
+  "group_counts": {
+    "prediabetes": 16,
+    "healthy": 15,
+    "t2d": 14
+  },
+  "meals_total": 1706,
+  "meals_per_participant_median": 38.0,
+  "days_median": 10.634722222222223,
+  "libre_missing_median": 0.0,
+  "dexcom_missing_median": 0.03658536585365857,
+  "participants_without_dexcom": 0,
+  "participants_without_libre": 0,
+  "minutes_with_both_sensors": 629605,
+  "libre_minus_dexcom_mean": -31.945902907378436,
+  "libre_minus_dexcom_sd": 24.341530711697892,
+  "libre_dexcom_corr": 0.8297647266990604
+}

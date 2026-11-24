@@ -1,0 +1,21 @@
+{
+  "seed": 20261117,
+  "micro_cols": [
+    "m_richness",
+    "m_diversity",
+    "m_metabolic",
+    "m_health",
+    "m_inflam",
+    "m_butyrate"
+  ],
+  "scores": [
+    "Active Microbial Diversity",
+    "Metabolic Fitness",
+    "Gut Microbiome Health",
+    "Inflammatory Activity",
+    "Butyrate Production Pathways"
+  ],
+  "runtime_sec": 371.9,
+  "people_with_taxa": 44,
+  "people_with_scores": 42
+}

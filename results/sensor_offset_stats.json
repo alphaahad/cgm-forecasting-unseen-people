@@ -1,0 +1,30 @@
+{
+  "per_participant_offset_mean": -32.35801357572351,
+  "per_participant_offset_sd": 16.4156252678734,
+  "per_participant_offset_min": -71.66213660245182,
+  "per_participant_offset_max": 24.27054426535856,
+  "participants_libre_lower": 44,
+  "participants_libre_higher": 1,
+  "offset_by_group": {
+    "healthy": -37.7,
+    "prediabetes": -30.4,
+    "t2d": -28.8
+  },
+  "offset_by_dexcom_level": {
+    "(40, 80]": 3.7,
+    "(80, 100]": -16.4,
+    "(100, 120]": -26.4,
+    "(120, 150]": -33.6,
+    "(150, 200]": -38.9,
+    "(200, 400]": -44.1
+  },
+  "fingerstick_pairs_total": 71,
+  "fingerstick_pairs_libre": 71,
+  "libre_minus_finger_mean": -17.029669797249273,
+  "libre_mae_vs_finger": 20.92477375432506,
+  "libre_mard_vs_finger_pct": 17.06637959049496,
+  "fingerstick_pairs_dexcom": 36,
+  "dexcom_minus_finger_mean": 17.250963234296574,
+  "dexcom_mae_vs_finger": 19.618555826889164,
+  "dexcom_mard_vs_finger_pct": 19.69556218300325
+}

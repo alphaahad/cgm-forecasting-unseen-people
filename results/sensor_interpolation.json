@@ -1,0 +1,12 @@
+{
+  "libre": {
+    "mean_share_exactly_linear": 0.9399385450616637,
+    "most_common_reading_interval_min": 15,
+    "people": 45
+  },
+  "dexcom": {
+    "mean_share_exactly_linear": 0.8310858197814871,
+    "most_common_reading_interval_min": 5,
+    "people": 45
+  }
+}

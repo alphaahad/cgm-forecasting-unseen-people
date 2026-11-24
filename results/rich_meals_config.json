@@ -1,0 +1,35 @@
+{
+  "seed": 20261117,
+  "extras": [
+    "carbs_d30",
+    "carbs_d90",
+    "carbs_d180",
+    "protein_d120",
+    "fat_d180",
+    "fiber_d120",
+    "kcal_d120",
+    "n_meals_6h",
+    "last_meal_type",
+    "last_carb_share"
+  ],
+  "caps": {
+    "meal_kcal": 1180.0,
+    "carbs": 176.0,
+    "protein": 176.0,
+    "fat": 176.0,
+    "fiber": 176.0
+  },
+  "sample_stats": {
+    "libre": {
+      "samples": 45204,
+      "mean_decayed_carbs_90": 11.502954732461756,
+      "share_with_meal_in_6h": 0.6403636846296787
+    },
+    "dexcom": {
+      "samples": 41202,
+      "mean_decayed_carbs_90": 12.207685848930652,
+      "share_with_meal_in_6h": 0.6825396825396826
+    }
+  },
+  "runtime_sec": 191.9
+}

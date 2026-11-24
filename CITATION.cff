@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below, and cite the datasets listed in docs/DATA.md."
+type: software
+title: "cgm-forecasting-unseen-people"
+abstract: >-
+  Code and results for a controlled study of glucose forecasting from continuous glucose monitor data on people
+  not seen in training, across three public cohorts, with shuffled or swapped-data controls for every added input.
+authors:
+  - family-names: Nadeem
+    given-names: Ahad
+    orcid: "https://orcid.org/0009-0002-7224-6088"
+version: 0.1.0
+date-released: "2026-11-24"
+license: MIT
+repository-code: "https://github.com/alphaahad/cgm-forecasting-unseen-people"
+keywords:
+  - continuous glucose monitoring
+  - glucose forecasting
+  - personalisation
+  - evaluation
+  - negative results

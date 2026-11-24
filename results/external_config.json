@@ -1,0 +1,14 @@
+{
+  "seed": 20261117,
+  "meta": {
+    "shanghai_t2dm": {
+      "samples": 111628,
+      "people": 100
+    },
+    "but_cgm": {
+      "samples": 54340,
+      "people": 58
+    }
+  },
+  "runtime_sec": 89.3
+}

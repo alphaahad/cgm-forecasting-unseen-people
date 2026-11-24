@@ -1,0 +1,16 @@
+{
+  "seed": 20261117,
+  "Ks": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "test_start_day": 5,
+  "eligible": {
+    "libre": 44,
+    "dexcom": 44
+  },
+  "w_refit": 10.0,
+  "runtime_sec": 1243.2
+}

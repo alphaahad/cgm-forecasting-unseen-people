@@ -1,0 +1,25 @@
+sensor,horizon_min,method,glucose_only_gain,on_top_of_meals_gain
+libre,30,M1_bias,0.22 (0.11 to 0.36),0.28 (0.15 to 0.44)
+libre,30,M2_recalib,0.37 (0.19 to 0.57),0.41 (0.22 to 0.61)
+libre,30,M3_weighted_refit,0.42 (0.32 to 0.53),0.60 (0.45 to 0.78)
+libre,30,M4_baseline_feats,0.40 (0.20 to 0.59),not run
+libre,60,M1_bias,0.70 (0.36 to 1.16),0.80 (0.45 to 1.23)
+libre,60,M2_recalib,1.21 (0.80 to 1.67),1.04 (0.57 to 1.56)
+libre,60,M3_weighted_refit,1.08 (0.78 to 1.47),1.47 (1.10 to 1.89)
+libre,60,M4_baseline_feats,1.07 (0.61 to 1.53),not run
+libre,120,M1_bias,1.49 (0.80 to 2.46),1.67 (0.96 to 2.63)
+libre,120,M2_recalib,2.89 (2.14 to 3.81),2.31 (1.40 to 3.43)
+libre,120,M3_weighted_refit,2.06 (1.50 to 2.73),2.42 (1.74 to 3.19)
+libre,120,M4_baseline_feats,2.32 (1.52 to 3.09),not run
+dexcom,30,M1_bias,0.23 (0.10 to 0.37),0.24 (0.10 to 0.39)
+dexcom,30,M2_recalib,0.32 (-0.40 to 0.78),0.27 (-0.47 to 0.75)
+dexcom,30,M3_weighted_refit,0.41 (0.31 to 0.52),0.68 (0.50 to 0.88)
+dexcom,30,M4_baseline_feats,0.47 (-0.06 to 0.86),not run
+dexcom,60,M1_bias,0.61 (0.30 to 0.95),0.59 (0.25 to 0.95)
+dexcom,60,M2_recalib,1.12 (0.28 to 1.77),0.92 (0.04 to 1.62)
+dexcom,60,M3_weighted_refit,0.91 (0.71 to 1.14),1.34 (1.00 to 1.70)
+dexcom,60,M4_baseline_feats,1.06 (0.24 to 1.71),not run
+dexcom,120,M1_bias,1.24 (0.62 to 2.02),1.27 (0.60 to 2.07)
+dexcom,120,M2_recalib,2.24 (1.10 to 3.33),1.87 (0.76 to 2.89)
+dexcom,120,M3_weighted_refit,1.54 (1.20 to 1.93),1.96 (1.42 to 2.59)
+dexcom,120,M4_baseline_feats,1.69 (0.15 to 2.97),not run

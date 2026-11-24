@@ -1,0 +1,74 @@
+{
+  "seed": 20261117,
+  "stats": {
+    "libre": {
+      "samples": 45204,
+      "people": 45,
+      "meal_in_last_2h": 0.26289708875320766,
+      "fitbit_available": 0.8991903371383063
+    },
+    "dexcom": {
+      "samples": 41202,
+      "people": 45,
+      "meal_in_last_2h": 0.281175671083928,
+      "fitbit_available": 0.9411679044706568
+    }
+  },
+  "runtime_sec": 257.2,
+  "rungs": {
+    "R1_glucose": [],
+    "R2_+group": [
+      "grp"
+    ],
+    "R3_+meals": [
+      "grp",
+      "mins_since_meal",
+      "meal_kcal",
+      "meal_carbs",
+      "meal_protein",
+      "meal_fat",
+      "meal_fiber",
+      "carbs_2h",
+      "kcal_2h"
+    ],
+    "R3s_meals_shuffled": [
+      "grp",
+      "mins_since_meal",
+      "meal_kcal",
+      "meal_carbs",
+      "meal_protein",
+      "meal_fat",
+      "meal_fiber",
+      "carbs_2h",
+      "kcal_2h"
+    ],
+    "R4_+activity": [
+      "grp",
+      "mins_since_meal",
+      "meal_kcal",
+      "meal_carbs",
+      "meal_protein",
+      "meal_fat",
+      "meal_fiber",
+      "carbs_2h",
+      "kcal_2h",
+      "hr_30",
+      "mets_30",
+      "calact_30"
+    ],
+    "R4s_activity_shuffled": [
+      "grp",
+      "mins_since_meal",
+      "meal_kcal",
+      "meal_carbs",
+      "meal_protein",
+      "meal_fat",
+      "meal_fiber",
+      "carbs_2h",
+      "kcal_2h",
+      "hr_30",
+      "mets_30",
+      "calact_30"
+    ]
+  }
+}

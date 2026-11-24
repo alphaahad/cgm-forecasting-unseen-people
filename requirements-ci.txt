@@ -1,0 +1,10 @@
+# Minimal dependencies for continuous integration (lint and unit tests). The full pinned environment is requirements.txt.
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+openpyxl
+xlrd
+pytest
+ruff

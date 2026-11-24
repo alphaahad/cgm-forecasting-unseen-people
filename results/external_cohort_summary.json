@@ -1,0 +1,26 @@
+[
+  {
+    "cohort": "shanghai_t2dm",
+    "recordings": 109,
+    "people": 100,
+    "readings": 112462,
+    "glucose_mean": 140.1619675979442,
+    "glucose_sd": 50.98158976664463,
+    "glucose_min": 39.6,
+    "glucose_max": 468.0,
+    "pct_at_or_below_40": 0.2925432590563924,
+    "median_days": 12.6875
+  },
+  {
+    "cohort": "but_cgm",
+    "recordings": 63,
+    "people": 58,
+    "readings": 58836,
+    "glucose_mean": 107.16889681147596,
+    "glucose_sd": 21.995928857023586,
+    "glucose_min": 39.6352,
+    "glucose_max": 300.86719999999997,
+    "pct_at_or_below_40": 0.015296757087497451,
+    "median_days": 10.15625
+  }
+]

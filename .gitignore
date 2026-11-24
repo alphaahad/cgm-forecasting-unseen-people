@@ -1,0 +1,46 @@
+# ---- data (never commit: public datasets keep their own licences and are downloaded by src/download_datasets.py)
+data/
+*.zip
+*.h5
+*.parquet
+*.csv.gz
+
+# ---- Python and tooling
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+.pytest_cache/
+.ruff_cache/
+*.pt
+*.pkl
+
+# ---- generated, not part of the repository
+figures/
+results/logs/
+results/run_all_timings.json
+
+# ---- private working files (planning notes, learning notes, status log, assistant instructions)
+CLAUDE.md
+DECISIONS.md
+KNOWLEDGE_BASE.md
+PROJECT_STATUS.md
+references/
+notebooks/
+docs/PLAN_all_options.md
+docs/PAPER_PLAN.md
+docs/LITERATURE.md
+docs/VENUE_REPORT.md
+
+# ---- the manuscript and its tooling: NOT published until the preprint is posted
+paper/
+src/build_paper.py
+src/build_docs.py
+src/audit_numbers.py
+src/audit_docx.py
+src/audit_common.py
+src/audit_selftest.py
+src/locate_numbers.py
+*.docx
+*.pdf

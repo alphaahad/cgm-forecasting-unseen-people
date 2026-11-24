@@ -1,0 +1,7 @@
+sensor,group,mean,count
+dexcom,healthy,20.11357725724122,15
+dexcom,prediabetes,24.597526340734834,16
+dexcom,t2d,32.02696387374126,14
+libre,healthy,17.04266895582003,15
+libre,prediabetes,21.054578595963044,16
+libre,t2d,28.098831675983526,14
